@@ -7,6 +7,20 @@ Janvier 2021
 
 /** Citation **/
 
+.ctquotetable {
+	box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.68);
+	-webkit-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.68);
+	-moz-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.68);
+}
+
+.ctcodetable {
+	box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.68);
+	-webkit-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.68);
+	-moz-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.68);
+	border-collapse: collapse;
+}
+
+
 .ctquotetitle {
 	padding: 0;
 	border-top-style: none !important;
