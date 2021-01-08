@@ -9,6 +9,7 @@ pre {
     font-weight: 400;
     font-family: 'Source Code Pro', monospace;
     font-size : 12px;
+	margin: 0;
 }
 
 pre .atn, pre .kwd, pre .tag {
