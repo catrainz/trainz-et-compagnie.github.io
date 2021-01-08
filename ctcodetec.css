@@ -5,6 +5,18 @@ Janvier 2021
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
+/** Tout le site**/
+
+::selection {
+	color: #fff;
+	background: #ef7e4c;
+}
+
+::-moz-selection {
+	color: #fff;
+	background: #ef7e4c;
+ }
+
 /** Citation **/
 
 .ctquotetitle {
@@ -35,11 +47,11 @@ Janvier 2021
 
 /** Code **/
 
-::selection {
+pre ::selection {
 	background: #161a1f;
 }
 
-::-moz-selection {
+pre ::-moz-selection {
 	background: #161a1f;
  }
 
