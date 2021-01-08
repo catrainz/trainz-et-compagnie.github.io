@@ -5,6 +5,15 @@ Janvier 2021
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
+/** Citation **/
+
+.ctquotetitle {
+	padding: 0;
+	border-style: none;
+}
+
+/** Code - Citation - Citation de membre **/
+
 .cttdcodetitle {
     background: #1e2325;
     margin: 0;
@@ -15,7 +24,10 @@ Janvier 2021
 .ctcodetitle {
     display: table;
     margin: 0 auto;
+	letter-spacing: 5px;
 }
+
+/** Code **/
 
 pre ::selection {
 	background: #161a1f;
