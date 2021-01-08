@@ -5,11 +5,32 @@ Janvier 2021
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
+.cttdcodetitle {
+    background: #1e2325;
+    margin: 0;
+    padding: 10px 0;
+    text-transform: uppercase;
+}
+
+.ctcodetitle {
+    display: table;
+    margin: 0 auto;
+}
+
+pre ::selection {
+	background: #161a1f;
+}
+
+pre ::-moz-selection {
+	background: #161a1f;
+ }
+
 pre {
     font-weight: 400;
     font-family: 'Source Code Pro', monospace;
     font-size : 12px;
 	margin: 0;
+	padding: 0 20px;
 }
 
 pre .atn, pre .kwd, pre .tag {
