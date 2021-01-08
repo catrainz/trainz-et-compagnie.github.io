@@ -2,7 +2,8 @@
 
 code {
     font-weight: 400;
-    font-family: 'Source Code Pro', monospace;	
+    font-family: 'Source Code Pro', monospace;
+	font-size : 12px;
 }
 
 pre .atn, pre .kwd, pre .tag {
@@ -12,8 +13,6 @@ pre .atn, pre .kwd, pre .tag {
 pre.prettyprint {
     display: block;
     background-color: #333;
-    font-weight: 400;
-    font-family: 'Source Code Pro', monospace;
 }
 
 pre .nocode {
