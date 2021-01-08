@@ -35,11 +35,11 @@ Janvier 2021
 
 /** Code **/
 
-pre ::selection {
+::selection {
 	background: #161a1f;
 }
 
-pre ::-moz-selection {
+::-moz-selection {
 	background: #161a1f;
  }
 
