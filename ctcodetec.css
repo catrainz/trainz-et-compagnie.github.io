@@ -9,7 +9,8 @@ Janvier 2021
 
 .ctquotetitle {
 	padding: 0;
-	border-style: none;
+	border-style: none !important;
+	margin: 0;
 }
 
 /** Code - Citation - Citation de membre **/
