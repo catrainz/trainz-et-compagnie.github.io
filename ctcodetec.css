@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
+code {
+    font-weight: 400;
+    font-family: 'Source Code Pro', monospace;	
+}
+
 pre .atn, pre .kwd, pre .tag {
 
 }
