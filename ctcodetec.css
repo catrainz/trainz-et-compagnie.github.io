@@ -53,6 +53,9 @@ pre .atn, pre .kwd, pre .tag {
 pre.prettyprint {
     display: block;
     background-color: #2a2f31;
+	border-left: 2px solid #1e2325;
+	border-right: 2px solid #1e2325;
+	border-bottom: 2px solid #1e2325;
 }
 
 pre .nocode {
