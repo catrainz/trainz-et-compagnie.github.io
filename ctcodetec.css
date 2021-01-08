@@ -1,9 +1,14 @@
+/**
+Developpement Cater58
+Janvier 2021
+**/
+
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
-code {
+pre {
     font-weight: 400;
     font-family: 'Source Code Pro', monospace;
-	font-size : 12px;
+    font-size : 12px;
 }
 
 pre .atn, pre .kwd, pre .tag {
